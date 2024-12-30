@@ -5,7 +5,7 @@ const app=express()
 
 
 app.get("/",(req,res)=>{
-    res.json("The app is developed using expressjs framework only")
+    res.json("The app is developed using expressjs framework ")
 })
 
 
